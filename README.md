@@ -37,5 +37,5 @@ Users should be able to:
 
 ## Author
 
-- Website - https://akari-mp4.carrd.co/
+- Website - harpsicord.carrd.co
 - Frontend Mentor - https://www.frontendmentor.io/profile/akari08-mp4

@@ -1,0 +1,74 @@
+.flexbox {
+  display: flexbox;
+  border: 1.5px solid black;
+  width: 385px;
+  border-radius: 15px;
+  box-shadow: 10px 10px;
+  margin-bottom: 50px;
+}
+
+.flex-item {
+  background-color: hsl(0, 0%, 100%);
+  padding: 20px 20px;
+}
+
+.flex-item p {
+  font-family: Figtree;
+  color: hsl(0, 0%, 7%);
+  justify-content: center;
+  margin: 0;
+}
+
+.bold {
+  font-weight: 800;
+}
+
+#gray {
+  color: hsl(0, 0%, 50%);
+}
+
+body {
+  background: hsl(47, 88%, 63%);
+}
+
+.description {
+  max-width: 350px;
+}
+
+.flex-item img {
+  border-radius: 15px;
+}
+
+.top-div {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.bottom-div {
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.label {
+  background-color: hsl(47, 88%, 63%);
+  display: inline-block;
+  padding: 5px 10px;
+}
+
+.big {
+  font-size: 25px;
+}
+
+.author {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.author-name {
+  padding-left: 10px;
+}
+
+.date {
+  padding-top: 15px;
+}
